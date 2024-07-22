@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="select_currency_from">currency_from</string>
+    <string name="select_currency_to">currency_to</string>
+    <string name="enter_amount_to_convert">Enter amount to convert</string>
+    <string name="convert_currency">Convert Currency</string>
+    <string name="ButtonBack">back</string>
+</resources>
